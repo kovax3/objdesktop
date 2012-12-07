@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>snowflake.png</file>
+        <file>cloud2.png</file>
+        <file>drop-l.png</file>
+        <file>autumn1.png</file>
+        <file>autumn2.png</file>
+        <file>autumn3.png</file>
+        <file>snowicon48.png</file>
+        <file>rain.png</file>
+        <file>snowicon.png</file>
+        <file>reflet.png</file>
+        <file>starIcon.png</file>
+        <file>butterfly_1.png</file>
+        <file>butterfly_2.png</file>
+        <file>tux/tumble1.png</file>
+        <file>tux/tumble2.png</file>
+        <file>tux/tumble3.png</file>
+        <file>tux/tumble4.png</file>
+        <file>tux/basher.png</file>
+        <file>tux/boarder.png</file>
+        <file>tux/digger.png</file>
+        <file>tux/miner.png</file>
+        <file>tux/slider.png</file>
+        <file>tux/walker.png</file>
+        <file>tux/bridger.png</file>
+        <file>tux/reader.png</file>
+        <file>tux/climber.png</file>
+        <file>tux/waiter.png</file>
+        <file>tux/bomber.png</file>
+        <file>tuxicon.png</file>
+        <file>papillon_2.png</file>
+        <file>autuIcon.png</file>
+        <file>lun.png</file>
+        <file>objdesktop_ar.qm</file>
+    </qresource>
+</RCC>

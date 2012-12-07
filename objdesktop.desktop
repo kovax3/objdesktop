@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+Type=Application
+Name=objdesktop
+Name[ar]=مؤثرات سطح المكتب 
+GenericName=Objdesktop Effects
+GenericName[ar]=مؤثرات سطح المكتب 
+Comment[ar]=مؤثرات سطح المكتب مثل الثلج والمطر
+
+Exec=objdesktop
+Icon=objdesktop
+Categories=Settings;DesktopSettings;
+
+
+
